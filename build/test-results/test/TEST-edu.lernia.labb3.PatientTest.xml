@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.lernia.labb3.PatientTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-09-07T13:43:44" hostname="LAPTOP-0DMQ1Q9A" time="0.037">
+  <properties/>
+  <testcase name="createHealthyPatient()" classname="edu.lernia.labb3.PatientTest" time="0.029"/>
+  <testcase name="createNullDiseasePatient()" classname="edu.lernia.labb3.PatientTest" time="0.001"/>
+  <testcase name="createSickPatient()" classname="edu.lernia.labb3.PatientTest" time="0.001"/>
+  <testcase name="takeWrongMedicationDoesNothing()" classname="edu.lernia.labb3.PatientTest" time="0.003"/>
+  <testcase name="sickPatientGetsCured()" classname="edu.lernia.labb3.PatientTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

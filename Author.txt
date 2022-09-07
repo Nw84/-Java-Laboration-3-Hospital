@@ -1,0 +1,6 @@
+Laboration 2: File Crawler 
+
+Created by Tobias Nordwall
+
+The goal of the exercise was to familiarize yourself with how Java handles classes, instances, member variables,
+constructors and overshadowing
